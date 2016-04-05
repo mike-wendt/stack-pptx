@@ -1,6 +1,6 @@
 # `stack.js` PPT convertor
 
-Based on Mike Bostock's stack.js:"https://github.com/mbostock/stack" presentation library with intuitive, scroll-based navigation. With scripts to quickly convert PowerPoint presnetations to stack.js for embedding websites within existing slides.
+Based on Mike Bostock's [stack.js](https://github.com/mbostock/stack) presentation library with intuitive, scroll-based navigation. With scripts to quickly convert PowerPoint presnetations to stack.js for embedding websites within existing slides.
 
 ## Usage
 
